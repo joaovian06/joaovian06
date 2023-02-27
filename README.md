@@ -1,9 +1,8 @@
-### Junior Full-Stack Ruby on Rails Engineer
-I'm a junior developer working with Ruby on Rails.
+### Full-Stack Ruby on Rails Engineer
+I'm a coding lover working with Ruby on Rails.
 Currently learning Vue and improving my knowledge of JavaScript.
 
-I'm also a music producer and guitar player at my free time, and my favorites music styles are jazz and hip hop.
-
+I'm also a music producer and guitar player. 🎸
 [![joao vian's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovian06&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&orgs=caiena)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovian06&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
