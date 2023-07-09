@@ -1,8 +1,8 @@
-### Full-Stack Ruby on Rails Engineer
+### Full-Stack Software Engineer
 I'm a coding lover working with Ruby on Rails.
-Currently learning Vue and improving my knowledge of JavaScript.
+Currently learning React, React Native and Next.JS.
 
-I'm also a music producer and guitar player. 🎸
+I'm also a music producer enthusiast and guitar player. 🎸
 
 [![joao vian's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovian06&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&orgs=Caiena)](https://github.com/anuraghazra/github-readme-stats)
 
