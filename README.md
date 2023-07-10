@@ -4,9 +4,9 @@ Currently learning React, React Native and Next.JS.
 
 I'm also a music producer enthusiast and guitar player. 🎸
 
-[![joao vian's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovian06&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&orgs=Caiena)](https://github.com/anuraghazra/github-readme-stats)
+[![joao vian's GitHub stats](http://github-readme-stats.vercel.app/api?username=joaovian06&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&orgs=Caiena)](http://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovian06&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=joaovian06&theme=dracula)](http://github.com/anuraghazra/github-readme-stats)
 <!--
 **joaovian06/joaovian06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
